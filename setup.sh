@@ -1,6 +1,6 @@
 # /bin/bash 
   
-  # Author:SYNF4LL
+  # Author:SYNF4LL & X1N73CT
   ##INstall flask, sendgrid
   cls || clear
  # banner
@@ -15,7 +15,7 @@ echo -e "\033[38;5;208m
  ░    ░  ░ ░ ░ ▒  ░  ░  ░   ▒ ░   ░   ░ ░   ░      
  ░    ░      ░ ░        ░   ░           ░     
    An Open Source Intelligence Framework  
-     Created by: SYNF4LL
+     Created by: SYNF4LL & X1N73CT
      Team: Visi Digital
  Version: \033[1;92m2.3
    \033[0m"
